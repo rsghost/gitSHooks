@@ -1,0 +1,6 @@
+{
+  "port": 3000,
+  "cmd": "sh hook.sh",
+  "path": "/webhook",
+  "secret": ""
+}
